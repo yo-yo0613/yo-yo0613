@@ -52,8 +52,7 @@ I am Yoyo, a developer skilled at leveraging AI and computer science foundations
 
 ## 📫 聯繫方式 / Contact Me
 
-- **Tasker 出任務**: [你的連結]
-- **Email**: [你的 Email]
-
+- **Email**: [chengyouli37@gmail.com]
+- **Line**: [yoyo950613]
 ---
 "The best way to predict the future is to invent it."
