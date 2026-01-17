@@ -37,7 +37,7 @@ I am Yoyo, a developer skilled at leveraging AI and computer science foundations
 - **English**: Implemented Serial communication between Unity and Arduino, driving gameplay via physical pedals. Successfully resolved critical crashes remotely within 24 hours during rehearsals to ensure a flawless live demo.
 - **Keywords**: `Unity`, `C#`, `Arduino`, `Serial Communication`, `Troubleshooting`.
 
-- ## 🌸 二姊食記 (Sister Website) - Full-Stack K8s Web Application
+- ### 🌸 雞不擇食 (xungfoodie Website) - Full-Stack K8s Web Application
 
 > **獨立完成前後端開發與雲端架構部署，實現高效率、自動化、具商業邏輯的個人品牌系統。**
 > **"Independently developed a full-stack web application with cloud infrastructure, implementing automated data pipelines and commercial-ready CMS."**
