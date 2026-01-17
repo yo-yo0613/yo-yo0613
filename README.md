@@ -79,6 +79,37 @@ I am Yoyo, a developer skilled at leveraging AI and computer science foundations
 
 ---
 
+### 🍔 Foodie's Website - Full-Stack E-commerce Platform
+> **「整合現代化前端互動與穩健後端架構，成功解決雲端資料傳輸限制，實現高整合度的餐飲電商系統。」**
+> **"Bridging modern UI interactions with robust backend architecture, successfully resolving cloud data constraints to deliver a seamless e-commerce experience."**
+
+- **中文描述**: 一個全功能的餐廳訂餐平台，整合了 **React** 前端互動與 **Spring Boot** 後端 API。針對 Firebase Auth 的 Payload 限制，自主開發了前端圖片壓縮演算法，並實作了基於狀態機的管理員權限申請流程。
+- **English**: A full-featured restaurant ordering platform integrating **React** frontend with **Spring Boot** backend APIs. Engineered a client-side image compression algorithm to overcome Firebase Auth payload limits and implemented a state-based admin role application workflow.
+- **Keywords**: `Full-Stack`, `Spring Boot`, `React`, `PostgreSQL`, `Image Compression`, `RBAC`
+
+#### 🛠 技術棧 (Technical Stack)
+- **Frontend**: `React 18`, `Tailwind CSS`, `Framer Motion`, `i18n (Multi-language)`
+- **Backend**: `Java 17`, `Spring Boot 3`, `Spring Data JPA`
+- **Database**: `PostgreSQL` (Cloud Hosted on Render)
+- **Infrastructure**: `Docker`, `Render`, `Firebase Hosting`
+
+#### 🚀 核心開發亮點 (Key Highlights)
+
+- **前端效能優化 (Frontend Optimization)**:
+    - **Canvas 圖片壓縮**: 針對 Firebase Auth 對 `photoURL` 的 2KB 限制，開發了 `Canvas API` 壓縮機制，將使用者上傳的大圖即時壓縮並轉為 Base64，成功解決資料溢位 (Payload too large) 問題。
+    - **沉浸式互動**: 使用 **Framer Motion** 實作流暢的頁面轉場與購物車動效，並整合 **i18n** 支援多國語系切換。
+
+- **後端與資料庫 (Backend & DB)**:
+    - **權限管理系統 (RBAC)**: 設計了「使用者 -> 申請中 -> 管理員」的狀態流轉機制，允許使用者透過介面申請升級，並由後端驗證權限。
+    - **穩健的 API 架構**: 實作 RESTful API 處理聯絡表單與訂單數據，利用 **Spring Data JPA** 確保資料交易的 ACID 特性。
+
+- **雲端部署 (Cloud Deployment)**:
+    - **前後端分離架構**: 前端託管於 **Firebase** 以獲得全球 CDN 加速，後端容器化後部署於 **Render**，並透過環境變數 (Environment Variables) 安全管理資料庫連線憑證。
+
+#### 📈 專案成果 (Results)
+- **問題解決**: 成功排除第三方驗證服務對資料長度的限制，無需額外購買儲存服務即實現大頭貼上傳功能。
+- **網站連結**: https://food-website-51067.web.app/
+
 ## 📈 服務與承諾 / Service & Commitments
 
 1. **企業級穩定性 (Enterprise Stability)**: 所有專案均提供 Docker 設定檔，確保「在我的電腦能跑，在你的伺服器也能跑」。
