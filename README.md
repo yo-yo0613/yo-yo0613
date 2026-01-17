@@ -37,6 +37,46 @@ I am Yoyo, a developer skilled at leveraging AI and computer science foundations
 - **English**: Implemented Serial communication between Unity and Arduino, driving gameplay via physical pedals. Successfully resolved critical crashes remotely within 24 hours during rehearsals to ensure a flawless live demo.
 - **Keywords**: `Unity`, `C#`, `Arduino`, `Serial Communication`, `Troubleshooting`.
 
+- ## 🌸 二姊食記 (Sister Website) - Full-Stack K8s Web Application
+
+> **獨立完成前後端開發與雲端架構部署，實現高效率、自動化、具商業邏輯的個人品牌系統。**
+> **"Independently developed a full-stack web application with cloud infrastructure, implementing automated data pipelines and commercial-ready CMS."**
+
+### 🛠 技術棧 (Technical Stack)
+- **Frontend**: `React`, `TypeScript`, `Tailwind CSS`, `Framer Motion`
+- **Backend**: `Java 21`, `Spring Boot`, `Hibernate JPA`
+- **Database**: `PostgreSQL` (運行於 K8s 叢集)
+- **Infrastructure**: `Docker`, `Kubernetes (K8s)`, `Nginx`, `Firebase Hosting`
+
+---
+
+### 🚀 核心開發亮點 (Key Highlights)
+
+#### 🎨 前端開發 (Frontend Development)
+- **響應式美學**: 使用 **React** 打造高質感日系簡約風格，確保在手機與電腦端均具備精品雜誌般的閱讀體驗。
+- **動態牆管理**: 實作前端內容管理介面 (CMS)，支援手動上傳美食貼文與自定義廣告版位配置。
+
+#### ⚙️ 後端架構 (Backend Architecture)
+- **高效能 API**: 採用 **Spring Boot** 實作 RESTful API，處理美食貼文的存取與商業邏輯。
+- **數據持久化**: 透過 **JPA/Hibernate** 自動映射資料庫表結構，確保數據存儲的嚴謹性與安全性。
+- **自動化爬蟲**: 開發 **Jsoup 爬蟲系統**，並在 API 額度受限時，成功轉化為手動/自動並行機制，確保存檔路徑 (Save Path) 依然穩定。
+
+#### ☁️ 雲端運維 (Cloud & DevOps)
+- **K8s 叢集部署**: 將前後端容器化並部署於 **Kubernetes**，利用多節點管理提升系統穩定性。
+- **數據隧道技術**: 實作 **Port-forwarding** 隧道，打通本地開發環境與 K8s 遠端資料庫的數據對接，大幅提升開發效率。
+- **CI/CD 工作流**: 整合 Git 與 Docker 打包流程，並處理 **React 19 依賴衝突**，成功將映像檔推播至生產環境。
+
+---
+
+### 📈 專案成果 (Results)
+- **技術驗證**: 成功實作測試數據自動插入機制，驗證「程式 -> 隧道 -> 資料庫」完整路徑之連通性。
+- **商業價值**: 提供非技術人員可操作的後台指南 (Admin Guide)，將複雜的 K8s 架構轉化為直覺的網頁操作，支援廣告配置與內容更新。
+
+---
+
+### 📂 關鍵字 (Keywords)
+`Full-Stack Development` `Spring Boot` `React` `Kubernetes` `PostgreSQL` `Web Crawler` `Docker`
+
 ---
 
 ## 📈 服務與承諾 / Service & Commitments
