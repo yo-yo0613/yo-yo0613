@@ -71,7 +71,7 @@ I am Yoyo, a developer skilled at leveraging AI and computer science foundations
 ### 📈 專案成果 (Results)
 - **技術驗證**: 成功實作測試數據自動插入機制，驗證「程式 -> 隧道 -> 資料庫」完整路徑之連通性。
 - **商業價值**: 提供非技術人員可操作的後台指南 (Admin Guide)，將複雜的 K8s 架構轉化為直覺的網頁操作，支援廣告配置與內容更新。
-
+- **網站連結**: https://xungfoodie.web.app/
 ---
 
 ### 📂 關鍵字 (Keywords)
