@@ -30,4 +30,4 @@ I specialize in bridging **UI/UX interaction design** with **high-performance we
 ### 📫 Contact
 
 - **Email**: [chengyouli37@gmail.com](mailto:chengyouli37@gmail.com)
-- **LinkedIn**: [linkedin.com/in/yo-yo-tw](https://linkedin.com/in/yo-yo-tw)
+- **LinkedIn**: [linkedin.com/in/yo-yo-tw]([https://linkedin.com/in/yo-yo-tw](https://www.linkedin.com/in/%E6%9D%8E-%E6%89%BF%E7%A5%90-6083aa349/))
