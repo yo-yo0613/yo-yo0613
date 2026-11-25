@@ -20,14 +20,15 @@ I specialize in bridging **UI/UX interaction design** with **high-performance we
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**StockScribe**](https://github.com/yo-yo0613/stock-website) | Real-time Taiwan stock backtesting & trading dashboard with off-main-thread Web Worker pipelines & live WebSocket alerts | `React 19` `TypeScript` `FastAPI` `PostgreSQL` `Web Worker` |
-| [**AR Focus Monster**](https://github.com/yo-yo0613/ar-project) | Spatial time-management & WebAR 3D interactive showcase with LOD optimization for smooth 60 FPS mobile rendering | `Three.js` `MindAR` `WebGL` `Web Audio API` `PWA` |
-| [**ESGWD Platform**](https://github.com/yo-yo0613/ESGWD) | Interactive ESG & climate initiative visualization platform with full-stack data management | `Next.js` `TypeScript` `Full-Stack` |
+| [**QuantTrd**](https://github.com/yo-yo0613/stock-website) | Real-time Taiwan stock backtesting & trading dashboard with off-main-thread Web Worker pipelines & live WebSocket alerts ([Live Demo](https://stock-website-ad6i.vercel.app)) | `React 19` `TypeScript` `FastAPI` `PostgreSQL` `Web Worker` |
+| [**AR Focus Monster**](https://github.com/yo-yo0613/ar-project) | Spatial time-management & WebAR 3D interactive showcase with LOD optimization for smooth 60 FPS mobile rendering ([Live Demo](https://ar-project-sandy-three.vercel.app)) | `Three.js` `MindAR` `WebGL` `Web Audio API` `PWA` |
+| [**ESGWD Platform**](https://github.com/yo-yo0613/ESGWD) | Interactive ESG & climate initiative visualization platform with full-stack data management ([Live Demo](https://esgwd.vercel.app)) | `Next.js` `TypeScript` `Full-Stack` |
 | [**ZenCube Timer**](https://github.com/yo-yo0613/zencube-timer) | Lightweight offline-first focus timer ([Live Demo](https://zencube-timer.vercel.app)) | `Next.js 14` `Tailwind CSS` `PWA` |
 
 ---
 
 ### 📫 Contact
 
+- **Portfolio**: [make-portfolio-beta.vercel.app/resume](https://make-portfolio-beta.vercel.app/resume)
 - **Email**: [chengyouli37@gmail.com](mailto:chengyouli37@gmail.com)
 - **LinkedIn**: [linkedin.com/in/yo-yo-tw](https://www.linkedin.com/in/%E6%9D%8E-%E6%89%BF%E7%A5%90-6083aa349/)
